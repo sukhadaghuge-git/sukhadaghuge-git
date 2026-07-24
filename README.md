@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Sukhada Ghuge 👋<br><br>🎓 Final-Year Information Technology Student<br>💻 Interested in Full-Stack Development, Data Science, and AI/ML<br>📊 Skilled in Python, SQL, Power BI, HTML, CSS, JavaScript, MongoDB<br>🌱 Currently improving my problem-solving and software development skills<br>🚀 Open to internships and collaboration on interesting projects
 
 
